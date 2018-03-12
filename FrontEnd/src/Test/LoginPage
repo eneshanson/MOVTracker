@@ -1,0 +1,32 @@
+import React from 'react'
+import { firebaseApp } from '../firebase' 
+
+
+
+export default class LoginPage extends React.Component {
+    constructor(props) {
+        super(props);
+        this.state= {
+            username: '',
+            password: ''
+        }
+    }
+        signUp() {
+            console.log('this.state', this.state)
+        }
+
+    render() {
+        return (
+            <div className="container">
+                <h1>Login</h1>
+                <h2 className="">Welcome Back</h2>
+                <h3>Email</h3>
+                <input type="text" onChange={event => this.setState({username: event.target.value})}></input>
+                <h3>Password</h3>
+                <input type="password" onChange={event => this.setState({password: event.target.value})}></input>
+                <div>
+                    <button className="btn btn-info" type="button" onClick={() => this.signUp()}>Submit</button>
+                </div>
+            </div>);
+    }
+}

@@ -1,0 +1,22 @@
+C:\Users\Enes Hanson\source\repos\Moviesh\Moviesh\bin\Debug\netcoreapp2.0\Moviesh.deps.json
+C:\Users\Enes Hanson\source\repos\Moviesh\Moviesh\bin\Debug\netcoreapp2.0\Moviesh.runtimeconfig.json
+C:\Users\Enes Hanson\source\repos\Moviesh\Moviesh\bin\Debug\netcoreapp2.0\Moviesh.runtimeconfig.dev.json
+C:\Users\Enes Hanson\source\repos\Moviesh\Moviesh\bin\Debug\netcoreapp2.0\Moviesh.dll
+C:\Users\Enes Hanson\source\repos\Moviesh\Moviesh\bin\Debug\netcoreapp2.0\Moviesh.pdb
+C:\Users\Enes Hanson\source\repos\Moviesh\Moviesh\obj\Debug\netcoreapp2.0\Moviesh.csprojResolveAssemblyReference.cache
+C:\Users\Enes Hanson\source\repos\Moviesh\Moviesh\obj\Debug\netcoreapp2.0\Moviesh.csproj.CoreCompileInputs.cache
+C:\Users\Enes Hanson\source\repos\Moviesh\Moviesh\obj\Debug\netcoreapp2.0\Moviesh.AssemblyInfoInputs.cache
+C:\Users\Enes Hanson\source\repos\Moviesh\Moviesh\obj\Debug\netcoreapp2.0\Moviesh.AssemblyInfo.cs
+C:\Users\Enes Hanson\source\repos\Moviesh\Moviesh\obj\Debug\netcoreapp2.0\Moviesh.dll
+C:\Users\Enes Hanson\source\repos\Moviesh\Moviesh\obj\Debug\netcoreapp2.0\Moviesh.pdb
+C:\Users\Enes Hanson\Desktop\PROJECT MOV\Moviesh\Moviesh\bin\Debug\netcoreapp2.0\Moviesh.deps.json
+C:\Users\Enes Hanson\Desktop\PROJECT MOV\Moviesh\Moviesh\bin\Debug\netcoreapp2.0\Moviesh.runtimeconfig.json
+C:\Users\Enes Hanson\Desktop\PROJECT MOV\Moviesh\Moviesh\bin\Debug\netcoreapp2.0\Moviesh.runtimeconfig.dev.json
+C:\Users\Enes Hanson\Desktop\PROJECT MOV\Moviesh\Moviesh\bin\Debug\netcoreapp2.0\Moviesh.dll
+C:\Users\Enes Hanson\Desktop\PROJECT MOV\Moviesh\Moviesh\bin\Debug\netcoreapp2.0\Moviesh.pdb
+C:\Users\Enes Hanson\Desktop\PROJECT MOV\Moviesh\Moviesh\obj\Debug\netcoreapp2.0\Moviesh.csprojResolveAssemblyReference.cache
+C:\Users\Enes Hanson\Desktop\PROJECT MOV\Moviesh\Moviesh\obj\Debug\netcoreapp2.0\Moviesh.csproj.CoreCompileInputs.cache
+C:\Users\Enes Hanson\Desktop\PROJECT MOV\Moviesh\Moviesh\obj\Debug\netcoreapp2.0\Moviesh.AssemblyInfoInputs.cache
+C:\Users\Enes Hanson\Desktop\PROJECT MOV\Moviesh\Moviesh\obj\Debug\netcoreapp2.0\Moviesh.AssemblyInfo.cs
+C:\Users\Enes Hanson\Desktop\PROJECT MOV\Moviesh\Moviesh\obj\Debug\netcoreapp2.0\Moviesh.dll
+C:\Users\Enes Hanson\Desktop\PROJECT MOV\Moviesh\Moviesh\obj\Debug\netcoreapp2.0\Moviesh.pdb

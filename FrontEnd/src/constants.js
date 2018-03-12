@@ -1,0 +1,5 @@
+export const SIGNED_IN = 'SIGNED_IN';
+export const SET_ACTORS = 'SET_ACTORS';
+export const SET_FAVORITEACTORS = 'SET_FAVORITEACTORS'
+export const SET_MOVIES = 'SET_MOVIES'
+export const SET_FAVORITEMOVIES = 'SET_FAVORITEMOVIES'
